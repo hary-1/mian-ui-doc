@@ -9,7 +9,17 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^2.6.14"
+    "element-ui": "^2.15.12",
+    "highlight.js": "^11.6.0",
+    "lodash": "^4.17.21",
+    "markdown-it": "^8.4.1",
+    "markdown-it-anchor": "^5.0.2",
+    "markdown-it-chain": "^1.3.0",
+    "markdown-it-container": "^2.0.0",
+    "markdown-it-emoji": "^1.4.0",
+    "markdown-it-table-of-contents": "^0.4.0",
+    "vue": "^2.6.14",
+    "vue-router": "^3.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
@@ -17,9 +27,15 @@
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-eslint": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
+    "cheerio": "^1.0.0-rc.10",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
-    "vue-template-compiler": "^2.6.14"
+    "vue-template-compiler": "^2.6.14",
+    "sass": "1.32.13",
+    "sass-loader": "^10.1.1",
+    "style-resources-loader": "^1.4.1",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2"
   },
   "eslintConfig": {
     "root": true,
