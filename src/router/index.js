@@ -5,7 +5,7 @@ Vue.use(VueRouter)
 
 let routes = [
   {
-    path: "/docs",
+    path: "/",
     name: "docs",
     component: (resolve) =>
       require([`../../docs/components/button/index.md`], resolve)
